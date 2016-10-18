@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/gd 205 fall 2016 hw 6.unity
+  isLoaded: 1
+  isActive: 1
